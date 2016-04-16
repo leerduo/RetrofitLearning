@@ -8,3 +8,7 @@
 * [Retrofit — Getting Started and Create an Android Client](https://futurestud.io/blog/retrofit-getting-started-and-android-client)
 * [Using Retrofit 2.0 as REST client - Tutorial](http://www.vogella.com/tutorials/Retrofit/article.html)
 * [Simple HTTP with Retrofit 2](https://realm.io/news/droidcon-jake-wharton-simple-http-retrofit-2/)
+* [How to make HTTP calls on Android with Retrofit 2](https://medium.com/@shelajev/how-to-make-http-calls-on-android-with-retrofit-2-cfc4a67c6254#.gotv3vk2a)
+* [Tips on updating to Retrofit 2](http://www.fasteque.com/tips-on-updating-to-retrofit-2/)
+* [Retrofit 2.0: The biggest update yet on the best HTTP Client Library for Android](http://inthecheesefactory.com/blog/retrofit-2.0/en)
+* [Build An Efficient REST Network Client In Android (With Retrofit 2 / OkHttp 3) - Part I - Retrofit](http://blog.duckma.com/2016/01/build-efficient-rest-client-in-android.html)
