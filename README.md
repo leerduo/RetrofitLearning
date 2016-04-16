@@ -4,4 +4,7 @@
 * [三种主流的Web服务实现方案（REST+SOAP+XML-RPC）简述及比较](http://www.cnblogs.com/lanxuezaipiao/archive/2013/05/11/3072436.html)
 * [RESTful](http://baike.baidu.com/link?url=9HWljsTnlN7rNBBmz6wWkxC2tjCUDQE3dRuGu9O7rYGRnv1v75Apii9D2dpj3yu56K8Qp0BT3q_6x69q1WYxDa)
 * [RESTful-wiki](https://zh.wikipedia.org/wiki/REST)
-* 
+* [CONSUMING REST API WITH RETROFIT 2.0 IN ANDROID](http://www.iayon.com/consuming-rest-api-with-retrofit-2-0-in-android/)
+* [Retrofit — Getting Started and Create an Android Client](https://futurestud.io/blog/retrofit-getting-started-and-android-client)
+* [Using Retrofit 2.0 as REST client - Tutorial](http://www.vogella.com/tutorials/Retrofit/article.html)
+* [Simple HTTP with Retrofit 2](https://realm.io/news/droidcon-jake-wharton-simple-http-retrofit-2/)
